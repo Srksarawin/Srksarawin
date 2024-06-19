@@ -2,8 +2,7 @@
 - 👀 I’m interested in
 - 🌱 I’m currently learning AI&DS 💻
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
-------📧 Email: srksarawin@gmail.com
+- 📫 How to reach me srksarawin@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
