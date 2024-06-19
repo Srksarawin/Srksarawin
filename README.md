@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Srksarawin
+- 👋 Hi, I’m Srksarawin
 - 👀 I’m interested in
 - 🌱 I’m currently learning AI&DS 💻
 - 💞️ I’m looking to collaborate on ...
