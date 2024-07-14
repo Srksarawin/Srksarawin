@@ -27,7 +27,7 @@ Artificial Intelligence and Data Science Student
 
   ![Github stats](https://github-readme-activity-graph.vercel.app/graph?username=srksarawin&bg_color=000000&color=ffffff&line=00ff2a&point=ffffff&area=true&hide_border=true)]
 
-  ![Leetcode stats](https://leetcard.jacoblin.cool/srksarawin?theme=wtf&font=Anek%20Telugu&ext=activity)
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/srksarawin?theme=nord&font=Anek%20Telugu&ext=activity)
 
   ![Hackerrank stats]()
   
