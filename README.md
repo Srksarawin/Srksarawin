@@ -1,6 +1,6 @@
 ## Hi there 👋 Myself Sarawin
 
-Artificial Intelligence and Data Science 👨‍🎓
+Artificial Intelligence and Data Science Student 👨‍🎓
 
 
 <img align="right" width="370" height="290" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
