@@ -11,7 +11,7 @@ Artificial Intelligence and Data Science Student
 - I'm looking for help with internships
 - Ask me about Sciences
 - How to reach me :
-  <br />   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/connect-with-sarawin07)
+  <br />   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/connect-with-sarawin07)
 - Pronouns:
 - Fun Fact: I know Japanese.
 
