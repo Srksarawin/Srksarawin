@@ -22,7 +22,7 @@ Artificial Intelligence and Data Science Student
   <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/> <img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
   
   ### Workspace Specs
-  <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/Intel-core_i5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
+  <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/Intel-core_i5-ED1C24?style=for-the-badge&logo=intel&logoColor=white"/> 
 
 
  
