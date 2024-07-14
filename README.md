@@ -13,7 +13,7 @@ Artificial Intelligence and Data Science Student 👨‍🎓
 - 📫 How to reach me :
   <br />   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/connect-with-sarawin07)
 - 😄 Pronouns: Programmer
-- ⚡ Fun Fact: I know Japanese 🇯🇵.
+- ⚡ Fun Fact: I know Japanese.
 
 
  ### I code in 👨‍💻
