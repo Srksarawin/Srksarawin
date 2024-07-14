@@ -18,13 +18,13 @@ Artificial Intelligence and Data Science Student
   
 
   ### IDE and Tools I use
-  <img height="50" widht="50" src=""/> <img height="50" widht="50" src=""/> <img height="50" widht="50" src=""/> <img height="50" widht="50" src=""/> <img height="50" widht="50" src=""/>
-
+  <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
+  
   ### Workspace Specs
-  <img height="50" widht="50" src=""/> <img height="50" widht="50" src=""/>
-  <img height="50" widht="50" src=""/>
-  <img height="50" widht="50" src=""/>
+  <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 
+
+ 
   ![Github stats](https://github-readme-activity-graph.vercel.app/graph?username=srksarawin&bg_color=000000&color=ffffff&line=00ff2a&point=ffffff&area=true&hide_border=true)
 
   ![LeetCode Stats](https://leetcard.jacoblin.cool/srksarawin?theme=dark&font=Anek%20Telugu&ext=activity)
