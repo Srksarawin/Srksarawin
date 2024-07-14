@@ -1,15 +1,14 @@
 ## Hi there  Myself Sarawin
 
 Artificial Intelligence and Data Science Student
-<img align="right" width="370" height="290" src="(https://github.com/user-attachments/assets/0982d87f-9dbc-4bab-9c0a-d51622255b88)
-">
+
 - Here's my [portfolio](https://sarawin.web.app/)
 - I'm currently learning AI and its domains
 - I'm looking to collaborate on AI
 - I'm looking for help with internship in zoho
 - Ask me about Sciences
 - How to reach me :
-  <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/connect-with-sarawin07)
+  <br />   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/connect-with-sarawin07)
 - Pronouns:
 - Fun Fact: I know Japanese.
 
@@ -28,7 +27,6 @@ Artificial Intelligence and Data Science Student
  
   ![Github stats](https://github-readme-activity-graph.vercel.app/graph?username=srksarawin&bg_color=000000&color=ffffff&line=00ff2a&point=ffffff&area=true&hide_border=true)
 
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/srksarawin?theme=dark&font=Anek%20Telugu&ext=activity)
 
 
   
