@@ -1,7 +1,7 @@
 ## Hi there  Myself Sarawin
 
 Artificial Intelligence and Data Science Student
-<img align="right" width="370" height="290" src="" >
+<img align="right" width="370" height="290" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3NgwFVUZ-MCPkkrWTZrG5_&ust=1721046996781000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqGAoTCMjwm-rFpocDFQAAAAAdAAAAABCOAQ" >
 - Here's my [portfolio](https://sarawin.web.app/)
 - I'm currently learning AI and its domains
 - I'm looking to collaborate on AI
