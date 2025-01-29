@@ -26,7 +26,7 @@ Artificial Intelligence and Data Science Student 👨‍🎓
   ### Workspace Specs 💻
   <img height="30" src="https://img.shields.io/badge/Lenovo-Ideapad_3_Gaming-ED1C24?style=for-the-badge&logo=lenovo&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/Intel-core_i5-ED1C24?style=for-the-badge&logo=intel&logoColor=white"/> <br />
 
-
+[![Sarawin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Srksarawin)](https://github.com/Srksarawin/github-readme-stats)
  
   ![Github stats](https://github-readme-activity-graph.vercel.app/graph?username=srksarawin&bg_color=000000&color=ffffff&line=00ff2a&point=ffffff&area=true&hide_border=true)
 
