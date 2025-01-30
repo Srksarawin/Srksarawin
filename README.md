@@ -9,7 +9,7 @@ Artificial Intelligence and Data Science Student 👨‍🎓
 - 🌱 I'm currently learning AI and its domains
 - 🤝 I'm looking to collaborate on AI
 - 🤔 I'm looking for help with internships
-- 💬 Ask me about Sciences
+- 💬 Ask me about Sciences & Philosophy
 - 📫 How to reach me :
   <br />   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/connect-with-sarawin07)
 - 😄 Pronouns: Developer 
