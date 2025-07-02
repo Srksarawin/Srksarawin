@@ -5,7 +5,7 @@ Artificial Intelligence and Data Science Student 👨‍🎓
 
 <img align="right" width="370" height="290" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
-- 🔭 Here's my [portfolio](https://sarawin.web.app/)
+- 🔭 Here's my [portfolio](https://sarawin.netlify.app/)
 - 🌱 I'm currently learning AI and its domains
 - 🤝 I'm looking to collaborate on AI
 - 🤔 I'm looking for help with internships
